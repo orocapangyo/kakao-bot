@@ -10,6 +10,8 @@
 - 8월 4주~9월 4주: 신규 프로젝트 수행
 - 10월 1주: 데모 데이
 - 10월 17~18일: 메이커페어 서울 2020 참가
+* 상세 스케쥴: [메신저터틀봇일정_20200703](https://github.com/orocapangyo/kakao-bot/blob/master/files/%EB%A9%94%EC%8B%A0%EC%A0%80%ED%84%B0%ED%8B%80%EB%B4%87%EC%9D%BC%EC%A0%95_20200703.xlsx)
+
 
 # 참고자료
 - 텔레그램 ROS	https://github.com/tue-robotics/telegram_ros
